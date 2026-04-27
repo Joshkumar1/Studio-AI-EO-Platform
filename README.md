@@ -218,7 +218,7 @@ License: MIT License
 
 Links:
 
-GitHub repository: https://github.com/SaiPriya0606
+GitHub repository: https://github.com/Joshkumar1
 
 Render deployment: https://studio-979o.onrender.com
 
