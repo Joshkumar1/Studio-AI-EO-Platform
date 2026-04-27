@@ -9,7 +9,7 @@ An AI-powered multimodal system that augments OpenAI GPT-OSS with vision underst
 
 ## 🔴 Live Demo & Repository
 - 🌐 **Deployment:** [https://studio-979o.onrender.com](https://studio-979o.onrender.com)  
-- 📦 **GitHub Repository:** [https://github.com/SaiPriya0606/studio](https://github.com/SaiPriya0606/studio)
+- 📦 **GitHub Repository:** [https://github.com/Joshkumar1/Studio-AI-EO-Platform](https://github.com/Joshkumar1/Studio-AI-EO-Platform)
 
 ---
 
@@ -172,7 +172,7 @@ studio/
 
 ### 🚀 Local Setup (Optional)
 
-git clone https://github.com/SaiPriya0606/studio.git
+git clone https://github.com/Joshkumar1/Studio-AI-EO-Platform.git
 
 cd studio
 
