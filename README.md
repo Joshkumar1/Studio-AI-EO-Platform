@@ -212,7 +212,7 @@ Change Detection: 0.78 IoU with natural language explanations
 
 We welcome contributions! Please submit a Pull Request. For major changes, open an issue first to discuss.
 
-Authors: G. Sai Priya
+Authors: G. Josh Kumar
 
 License: MIT License
 
